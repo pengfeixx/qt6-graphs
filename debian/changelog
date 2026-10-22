@@ -1,5 +1,7 @@
-template-repository (1.0-1) unstable; urgency=medium
+qt6-graphs (6.12.0-1) unstable; urgency=medium
 
-  * Initial release
+  * Cleanroom rebuild against Qt 6.12.0 upstream tarball
+    (reproduce per qt6.12-build/docs/Qt6.12净室打包记录.md).
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Qt 6.12 Cleanroom <root@localhost>  Mon, 19 Oct 2026 12:00:00 +0800
+

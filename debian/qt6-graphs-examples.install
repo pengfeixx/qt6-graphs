@@ -1,0 +1,12 @@
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/2d/cockpit/cockpit
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/2d/hellographs/hellographs
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/2d/quickwidgetgraphs/quickwidgetgraphs
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/3d/axishandling/axishandling
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/3d/bars/bars
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/3d/equation/equation
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/3d/scatter/scatter
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/3d/surfacegallery/surfacegallery
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/3d/widgetgraphgallery/widgetgraphgallery
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/3d/widgetvolumetric/widgetvolumetric
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/common/aerospacehub/bin/aerospacehub
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/examples/graphs/common/graphprinting/bin/graphprinting

@@ -1,0 +1,9 @@
+Document: qt6-graphs-manual
+Title: Qt 6 Graphs
+Author: The Qt Company Ltd
+Abstract: This is the HTML documentation for Qt 6 Graphs
+Section: Programming/C++
+
+Format: HTML
+Index: /usr/share/doc/qt6-graphs-doc-html/html/qtgraphs/qtgraphs-index.html
+Files: /usr/share/doc/qt6-graphs-doc-html/html/qtgraphs/*.html

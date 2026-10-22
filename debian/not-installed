@@ -1,0 +1,17 @@
+usr/include/${DEB_HOST_MULTIARCH}/qt6/QtGraphs/6.*/QtGraphs/private/*_p.h
+usr/include/${DEB_HOST_MULTIARCH}/qt6/QtGraphsWidgets/6.*/QtGraphsWidgets/private/*.h
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/mkspecs/modules/qt_lib_graphs_private.pri
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/mkspecs/modules/qt_lib_graphswidgets_private.pri
+usr/lib/x86_64-linux-gnu/libQt6Graphs2DImpl.prl
+usr/lib/x86_64-linux-gnu/libQt6Graphs2DImpl.so
+usr/lib/x86_64-linux-gnu/libQt6Graphs2DImpl.so.6
+usr/lib/x86_64-linux-gnu/libQt6Graphs2DImpl.so.6.12.0
+usr/lib/x86_64-linux-gnu/pkgconfig/Qt6Graphs2DImpl.pc
+usr/lib/x86_64-linux-gnu/qt6/metatypes/qt6graphs2dimpl_metatypes.json
+usr/lib/x86_64-linux-gnu/qt6/mkspecs/modules/qt_lib_graphs2dimpl.pri
+usr/lib/x86_64-linux-gnu/qt6/modules/Graphs2DImpl.json
+usr/lib/x86_64-linux-gnu/qt6/qml/QtGraphs2D/impl/Graphs2DImpl.qmltypes
+usr/lib/x86_64-linux-gnu/qt6/qml/QtGraphs2D/impl/PointMarker.qml
+usr/lib/x86_64-linux-gnu/qt6/qml/QtGraphs2D/impl/ZoomAreaDelegate.qml
+usr/lib/x86_64-linux-gnu/qt6/qml/QtGraphs2D/impl/libqtgraphs2dimplplugin.so
+usr/lib/x86_64-linux-gnu/qt6/qml/QtGraphs2D/impl/qmldir
